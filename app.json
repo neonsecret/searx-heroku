@@ -1,7 +1,7 @@
 {
     "name": "Searx",
     "description": "Privacy-respecting, hackable metasearch engine",
-    "repository": "https://github.com/searx/searx",
+    "repository": "https://github.com/neonsecret/searx",
     "logo": "https://raw.githubusercontent.com/searx/searx/master/searx/static/themes/oscar/img/logo_searx_a.png",
     "keywords": [
         "search",
