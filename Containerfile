@@ -35,7 +35,7 @@ RUN apk upgrade --no-cache \
         uwsgi \
         uwsgi-python3 \
         brotli \
- && git clone --depth 1 https://github.com/searx/searx . \
+ && git clone --depth 1 https://github.com/neonsecret/searx . \
  && chown -R searx:searx . \
  && pip3 install --upgrade pip \
  && pip3 install --no-cache -r requirements.txt \
